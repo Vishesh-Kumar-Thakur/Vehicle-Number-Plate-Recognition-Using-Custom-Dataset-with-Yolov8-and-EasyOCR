@@ -1,0 +1,1 @@
+# Vehicle-Number-Plate-Recognition-Using-Custom-Dataset-with-Yolov8-and-EasyOCR
